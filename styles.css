@@ -1,0 +1,21 @@
+input {
+    background-color: gray;
+    color: white;
+}
+
+label {
+    background-color: gray;
+    color: white;
+}
+
+#Yes {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+#No {
+    background-color: red;
+    color: white;
+    font-size: 18px;
+}
